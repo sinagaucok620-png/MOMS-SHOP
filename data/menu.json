@@ -1,0 +1,863 @@
+{
+  "items": [
+    {
+      "code": "S01",
+      "category": "Smoothie",
+      "names": {
+        "km": "ប័រក្រឡុក",
+        "en": "Avocado Smoothie",
+        "zh": "牛油果冰沙",
+        "th": "อะโวคาโดปั่น",
+        "vi": "Sinh tố bơ",
+        "id": "Jus Alpukat"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 5000,
+        "large": 6000
+      },
+      "sortOrder": 1,
+      "bestSeller": 1,
+      "active": true,
+      "image": "S01.jpg",
+      "notes": ""
+    },
+    {
+      "code": "S02",
+      "category": "Smoothie",
+      "names": {
+        "km": "ចេកក្រឡុក",
+        "en": "Banana Smoothie",
+        "zh": "香蕉冰沙",
+        "th": "กล้วยปั่น",
+        "vi": "Sinh tố chuối",
+        "id": "Smoothie Pisang"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 2,
+      "bestSeller": 1,
+      "active": true,
+      "image": "S02.jpg",
+      "notes": ""
+    },
+    {
+      "code": "S03",
+      "category": "Smoothie",
+      "names": {
+        "km": "ស្វាយក្រឡុក",
+        "en": "Mango Smoothie",
+        "zh": "芒果冰沙",
+        "th": "มะม่วงปั่น",
+        "vi": "Sinh tố xoài",
+        "id": "Smoothie Mangga"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 3,
+      "bestSeller": 1,
+      "active": true,
+      "image": "S03.jpg",
+      "notes": ""
+    },
+    {
+      "code": "S04",
+      "category": "Smoothie",
+      "names": {
+        "km": "ផាសិនក្រឡុក",
+        "en": "Passion Smoothie",
+        "zh": "百香果冰沙",
+        "th": "เสาวรสปั่น",
+        "vi": "Sinh tố chanh dây",
+        "id": "Smoothie Markisa"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 4,
+      "bestSeller": 1,
+      "active": true,
+      "image": "S04.jpg",
+      "notes": ""
+    },
+    {
+      "code": "S05",
+      "category": "Smoothie",
+      "names": {
+        "km": "ប៉ោមក្រឡុក",
+        "en": "Apple Smoothie",
+        "zh": "苹果冰沙",
+        "th": "แอปเปิลปั่น",
+        "vi": "Sinh tố táo",
+        "id": "Smoothie Apel"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 5,
+      "bestSeller": 0,
+      "active": true,
+      "image": "S05.jpg",
+      "notes": ""
+    },
+    {
+      "code": "S06",
+      "category": "Smoothie",
+      "names": {
+        "km": "ក្រូចក្រឡុក",
+        "en": "Orange Smoothie",
+        "zh": "橙子冰沙",
+        "th": "ส้มปั่น",
+        "vi": "Sinh tố cam",
+        "id": "Smoothie Jeruk"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 6,
+      "bestSeller": 0,
+      "active": true,
+      "image": "S06.jpg",
+      "notes": ""
+    },
+    {
+      "code": "S07",
+      "category": "Smoothie",
+      "names": {
+        "km": "ក្រូចច្របាច់",
+        "en": "Fresh Orange Juice",
+        "zh": "鲜榨橙汁",
+        "th": "น้ำส้มคั้นสด",
+        "vi": "Nước cam ép",
+        "id": "Jus Jeruk Peras"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 7,
+      "bestSeller": 1,
+      "active": true,
+      "image": "S07.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C01",
+      "category": "Cream",
+      "names": {
+        "km": "កូកូគ្រីម",
+        "en": "Cocoa Cream",
+        "zh": "可可奶油",
+        "th": "โกโก้ครีม",
+        "vi": "Kem cacao",
+        "id": "Krim Cokelat"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 8,
+      "bestSeller": 0,
+      "active": true,
+      "image": "C01.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C02",
+      "category": "Cream",
+      "names": {
+        "km": "អូវ៉ាន់ទីនគ្រីម",
+        "en": "Ovaltine Cream",
+        "zh": "阿华田奶油",
+        "th": "โอวัลตินครีม",
+        "vi": "Kem Ovaltine",
+        "id": "Krim Ovaltine"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 9,
+      "bestSeller": 1,
+      "active": true,
+      "image": "C02.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C03",
+      "category": "Cream",
+      "names": {
+        "km": "ម៉ៃឡូគ្រីម",
+        "en": "Milo Cream",
+        "zh": "美禄奶油",
+        "th": "ไมโลครีม",
+        "vi": "Kem Milo",
+        "id": "Krim Milo"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 10,
+      "bestSeller": 1,
+      "active": true,
+      "image": "C03.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C04",
+      "category": "Cream",
+      "names": {
+        "km": "ត្រាវគ្រីម",
+        "en": "Taro Cream",
+        "zh": "芋头奶油",
+        "th": "เผือกครีม",
+        "vi": "Kem khoai môn",
+        "id": "Krim Taro"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 11,
+      "bestSeller": 1,
+      "active": true,
+      "image": "C04.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C05",
+      "category": "Cream",
+      "names": {
+        "km": "ត្រសក់ស្រូវគ្រីម",
+        "en": "Cantaloupe Cream",
+        "zh": "哈密瓜奶油",
+        "th": "แคนตาลูปครีม",
+        "vi": "Kem dưa lưới",
+        "id": "Krim Melon"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 12,
+      "bestSeller": 0,
+      "active": true,
+      "image": "C05.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C06",
+      "category": "Cream",
+      "names": {
+        "km": "តែបៃតងគ្រីម",
+        "en": "Green Tea Cream",
+        "zh": "绿茶奶油",
+        "th": "ชาเขียวครีม",
+        "vi": "Kem trà xanh",
+        "id": "Krim Teh Hijau"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3500,
+        "large": 4500
+      },
+      "sortOrder": 13,
+      "bestSeller": 0,
+      "active": true,
+      "image": "C06.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C07",
+      "category": "Cream",
+      "names": {
+        "km": "តែក្រហមគ្រីម",
+        "en": "Thai Tea Cream",
+        "zh": "泰式奶茶奶油",
+        "th": "ชาไทยครีม",
+        "vi": "Kem trà Thái",
+        "id": "Krim Thai Tea"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3500,
+        "large": 4500
+      },
+      "sortOrder": 14,
+      "bestSeller": 1,
+      "active": true,
+      "image": "C07.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C08",
+      "category": "Cream",
+      "names": {
+        "km": "កាហ្វេគ្រីម",
+        "en": "Coffee Cream",
+        "zh": "咖啡奶油",
+        "th": "กาแฟครีม",
+        "vi": "Kem cà phê",
+        "id": "Krim Kopi"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3500,
+        "large": 4500
+      },
+      "sortOrder": 15,
+      "bestSeller": 0,
+      "active": true,
+      "image": "C08.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C09",
+      "category": "Cream",
+      "names": {
+        "km": "ផាសិនគ្រីម",
+        "en": "Passion Cream",
+        "zh": "百香果奶油",
+        "th": "เสาวรสครีม",
+        "vi": "Kem chanh dây",
+        "id": "Krim Markisa"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 16,
+      "bestSeller": 0,
+      "active": true,
+      "image": "C09.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C10",
+      "category": "Cream",
+      "names": {
+        "km": "ស្រ្ដប៊ីរីគ្រីម",
+        "en": "Strawberry Cream",
+        "zh": "草莓奶油",
+        "th": "สตรอว์เบอร์รีครีม",
+        "vi": "Kem dâu tây",
+        "id": "Krim Stroberi"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4000,
+        "large": 5000
+      },
+      "sortOrder": 17,
+      "bestSeller": 1,
+      "active": true,
+      "image": "C10.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C11",
+      "category": "Cream",
+      "names": {
+        "km": "ម៉ាឆាឡាតេគ្រីម",
+        "en": "Matcha Latte Cream",
+        "zh": "抹茶拿铁奶油",
+        "th": "มัทฉะลาเต้ครีม",
+        "vi": "Kem matcha latte",
+        "id": "Krim Matcha Latte"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 4500,
+        "large": 5500
+      },
+      "sortOrder": 18,
+      "bestSeller": 1,
+      "active": true,
+      "image": "C11.jpg",
+      "notes": ""
+    },
+    {
+      "code": "C12",
+      "category": "Cream",
+      "names": {
+        "km": "សារ៉ូដោះគ្រីម",
+        "en": "Milk Syrup Cream",
+        "zh": "奶香糖浆奶油",
+        "th": "นมไซรัปครีม",
+        "vi": "Kem sữa siro",
+        "id": "Krim Susu Sirup"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3500,
+        "large": 4500
+      },
+      "sortOrder": 19,
+      "bestSeller": 0,
+      "active": true,
+      "image": "C12.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M01",
+      "category": "Milk",
+      "names": {
+        "km": "កាហ្វេទឹកដោះគោ",
+        "en": "Coffee Milk",
+        "zh": "咖啡牛奶",
+        "th": "กาแฟนม",
+        "vi": "Sữa cà phê",
+        "id": "Susu Kopi"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 2500,
+        "large": 3500
+      },
+      "sortOrder": 20,
+      "bestSeller": 1,
+      "active": true,
+      "image": "M01.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M02",
+      "category": "Milk",
+      "names": {
+        "km": "តែបៃតងទឹកដោះគោ",
+        "en": "Green Tea Milk",
+        "zh": "绿茶牛奶",
+        "th": "ชาเขียวนม",
+        "vi": "Sữa trà xanh",
+        "id": "Susu Teh Hijau"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 2500,
+        "large": 3500
+      },
+      "sortOrder": 21,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M02.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M03",
+      "category": "Milk",
+      "names": {
+        "km": "តែក្រហមទឹកដោះគោ",
+        "en": "Thai Tea Milk",
+        "zh": "泰式奶茶牛奶",
+        "th": "ชาไทยนม",
+        "vi": "Sữa trà Thái",
+        "id": "Susu Thai Tea"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 2500,
+        "large": 3500
+      },
+      "sortOrder": 22,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M03.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M04",
+      "category": "Milk",
+      "names": {
+        "km": "សារ៉ូដោះធម្មតា",
+        "en": "Milk Syrup",
+        "zh": "糖浆牛奶",
+        "th": "นมไซรัป",
+        "vi": "Sữa siro",
+        "id": "Susu Sirup"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 2500,
+        "large": 3500
+      },
+      "sortOrder": 23,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M04.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M05",
+      "category": "Milk",
+      "names": {
+        "km": "សារ៉ូដោះគោឆៅ",
+        "en": "Fresh Milk Syrup",
+        "zh": "鲜牛奶糖浆",
+        "th": "นมสดไซรัป",
+        "vi": "Sữa tươi siro",
+        "id": "Susu Sirup Fresh Milk"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3500,
+        "large": 4500
+      },
+      "sortOrder": 24,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M05.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M06",
+      "category": "Milk",
+      "names": {
+        "km": "ផាសិនទឹកដោះគោ",
+        "en": "Passion Milk",
+        "zh": "百香果牛奶",
+        "th": "เสาวรสนม",
+        "vi": "Sữa chanh dây",
+        "id": "Susu Markisa"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3500,
+        "large": 4500
+      },
+      "sortOrder": 25,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M06.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M07",
+      "category": "Milk",
+      "names": {
+        "km": "កូកូទឹកដោះគោ",
+        "en": "Cocoa Milk",
+        "zh": "可可牛奶",
+        "th": "โกโก้นม",
+        "vi": "Sữa cacao",
+        "id": "Susu Cokelat"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3000,
+        "large": 4000
+      },
+      "sortOrder": 26,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M07.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M08",
+      "category": "Milk",
+      "names": {
+        "km": "អូវ៉ាន់ទីនទឹកដោះគោ",
+        "en": "Ovaltine Milk",
+        "zh": "阿华田牛奶",
+        "th": "โอวัลตินนม",
+        "vi": "Sữa Ovaltine",
+        "id": "Susu Ovaltine"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3000,
+        "large": 4000
+      },
+      "sortOrder": 27,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M08.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M09",
+      "category": "Milk",
+      "names": {
+        "km": "ម៉ៃឡូទឹកដោះគោ",
+        "en": "Milo Milk",
+        "zh": "美禄牛奶",
+        "th": "ไมโลนม",
+        "vi": "Sữa Milo",
+        "id": "Susu Milo"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3000,
+        "large": 4000
+      },
+      "sortOrder": 28,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M09.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M10",
+      "category": "Milk",
+      "names": {
+        "km": "ត្រាវទឹកដោះគោ",
+        "en": "Taro Milk",
+        "zh": "芋头牛奶",
+        "th": "เผือกนม",
+        "vi": "Sữa khoai môn",
+        "id": "Susu Taro"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3000,
+        "large": 4000
+      },
+      "sortOrder": 29,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M10.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M11",
+      "category": "Milk",
+      "names": {
+        "km": "ត្រសក់ស្រូវទឹកដោះគោ",
+        "en": "Cantaloupe Milk",
+        "zh": "哈密瓜牛奶",
+        "th": "แคนตาลูปนม",
+        "vi": "Sữa dưa lưới",
+        "id": "Susu Melon"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3000,
+        "large": 4000
+      },
+      "sortOrder": 30,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M11.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M12",
+      "category": "Milk",
+      "names": {
+        "km": "តែតៃវ៉ាន់ទឹកដោះគោ",
+        "en": "Taiwan Milk Tea",
+        "zh": "台湾奶茶",
+        "th": "ชานมไต้หวัน",
+        "vi": "Trà sữa Đài Loan",
+        "id": "Teh Susu Taiwan"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3000,
+        "large": 4000
+      },
+      "sortOrder": 31,
+      "bestSeller": 1,
+      "active": true,
+      "image": "M12.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M13",
+      "category": "Milk",
+      "names": {
+        "km": "ទឹកដោះគោធម្មតា",
+        "en": "Fresh Milk",
+        "zh": "纯牛奶",
+        "th": "นมสด",
+        "vi": "Sữa tươi",
+        "id": "Susu Putih"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 2500,
+        "large": 3500
+      },
+      "sortOrder": 32,
+      "bestSeller": 0,
+      "active": true,
+      "image": "M13.jpg",
+      "notes": ""
+    },
+    {
+      "code": "M14",
+      "category": "Milk",
+      "names": {
+        "km": "តែមេអំបៅទឹកដោះគោ",
+        "en": "Butterfly Pea Milk",
+        "zh": "蝶豆花牛奶",
+        "th": "ชาอัญชันนม",
+        "vi": "Sữa hoa đậu biếc",
+        "id": "Susu Bunga Telang"
+      },
+      "hasSize": true,
+      "sizeLabels": {
+        "small": "700ml",
+        "large": "1000ml"
+      },
+      "prices": {
+        "small": 3500,
+        "large": 4500
+      },
+      "sortOrder": 33,
+      "bestSeller": 1,
+      "active": true,
+      "image": "M14.jpg",
+      "notes": ""
+    }
+  ],
+  "generatedFrom": "MOMS_SHOP_MASTER_TEMPLATE_V3.xlsx"
+}
