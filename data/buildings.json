@@ -1,0 +1,10 @@
+{
+  "buildings": [
+    "Poipet Office Tower",
+    "Star Vegas Complex",
+    "Grand Diamond Building",
+    "Market Area Offices",
+    "Other"
+  ],
+  "note": "Admin can edit this list. Keep names short and consistent."
+}
